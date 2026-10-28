@@ -17996,7 +17996,7 @@
     "idleBody": "Nothing is selected, so nothing can be approved by accident. Pick a request to see exactly what it will do.",
     "emptyTitle": "No requests are waiting",
     "empty": "When a session or Worker needs your permission, it appears here.",
-    "decisionScope": "Each decision applies to this request only.",
+    "decisionScope": "Deny and Allow once apply to this request only. If an “Always allow … this session” button is shown, it also allows matching operations for the rest of this session.",
     "gate": {
       "locking": "Unlocking decisions…",
       "ready": "Ready to decide"
